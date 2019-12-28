@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+
+* [Daniel Pitis](mailto:pitis.daniel@owasp.org)
