@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP sibiu
+title: OWASP Sibiu
 tags: example-tag
 level: 4
 
