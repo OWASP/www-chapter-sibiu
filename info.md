@@ -1,9 +1,5 @@
-### sibiu Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Sibiu Information
+* 
 
 ### Downloads or Social Links
 * [Download](#)
