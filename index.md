@@ -24,7 +24,7 @@ Everyone is welcome to join our chapter meetings, members and non-members. OWASP
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 Anyone who wants to get involved and help the comunity is welcome .
 
@@ -35,5 +35,5 @@ In case that you have any suggestions / questions / issues about the OWASP Sibiu
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 Stay tuned for our first meetup
-{% include chapter_events.html group=page.meetup-group %} 
+<!--  {% include chapter_events.html group=page.meetup-group %}   -->
 
