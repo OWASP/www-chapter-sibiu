@@ -1,11 +1,11 @@
 ---
-title: Example
+title: Content
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: content-tag
 ---
 
-## Example
+## Content
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+The future content will be linked here: viodeos, news, screenshots, features, supporters etc.
