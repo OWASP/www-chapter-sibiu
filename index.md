@@ -14,6 +14,8 @@ region: Europe
 ## Welcome
 Welcome to our newly created chapter in the middle of Romania
 We are happy to learn together and grow a big, healthy and helpful community.
+Subscribe to our Youtube channel for latest videos we publish https://www.youtube.com/channel/UC5s3mtC08dY6cRtCEZu_ZHQ
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
