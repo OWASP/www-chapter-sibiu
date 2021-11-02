@@ -3,7 +3,7 @@ title: Content
 layout:  null
 tab: true
 order: 1
-tags: content-tag
+tags: example-tag
 ---
 
 ## Content
