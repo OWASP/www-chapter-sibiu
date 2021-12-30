@@ -35,5 +35,5 @@ In case that you have any suggestions / questions / issues about the OWASP Sibiu
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 Stay tuned for our first meetup
-<!--  {% include chapter_events.html group=page.meetup-group %}   -->
+{% include chapter_events.html group=page.meetup-group %}
 
