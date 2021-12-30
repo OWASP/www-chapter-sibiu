@@ -1,12 +1,14 @@
 ---
-title: Examples
+title: Links
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: links-tag
 ---
 
-## Examples
+## Useful Links
 
-Put whatever you like here: news, screenshots, features, supporters, 
-or remove this file and don't use tabs at all.
+[OWASP Sibiu Chapter Home](https://owasp.org/www-chapter-sibiu/)
+[OWASP Top 10](https://owasp.org/www-project-top-ten/)
+[OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/)
+[OWASP projects](https://owasp.org/projects/)
