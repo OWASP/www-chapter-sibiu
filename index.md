@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Sibiu
 tags: example-tag
 level: 2
-meetup-group:
+meetup-group: owasp-sibiu-chapter
 region: Europe
 
 ---
