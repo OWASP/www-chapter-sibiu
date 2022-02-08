@@ -7,7 +7,7 @@ Sibiu is a location in Transylvania placed in the middle of Romania known for it
 
 ### Downloads or Social Links
 * [Download](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-sibiu-chapter/)
 
 ### Code Repository
 * [repo](#)
