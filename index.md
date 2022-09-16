@@ -14,7 +14,7 @@ region: Europe
 ## Welcome
 Welcome to our newly created chapter in the middle of Romania
 We are happy to learn together and grow a big, healthy and helpful community.
-Subscribe to our [Youtube channel](https://www.youtube.com/channel/UC5s3mtC08dY6cRtCEZu_ZHQ) for latest videos we publish 
+Subscribe to our [Youtube channel](https://www.youtube.com/channel/UC5s3mtC08dY6cRtCEZu_ZHQ) or follow us on [Twitter](https://twitter.com/OWASP_Sibiu) for latest videos we publish 
 
 
 ## Participation
